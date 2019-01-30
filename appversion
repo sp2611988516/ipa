@@ -2,6 +2,6 @@
 "success":true,
 "data":{
 "ver":"1.01",
-"force":true
+"force":false
 }
 }
