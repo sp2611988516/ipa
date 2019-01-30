@@ -1,4 +1,7 @@
 {
 "success":true,
-"data":"1.01"
+"data":{
+"ver":"1.02",
+"force":false
+}
 }
